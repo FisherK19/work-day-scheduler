@@ -25,7 +25,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-![img](<![project screenshot](images/Work-day-scheduler.png)>)
+![Project Screenshot](images/Work-day-scheduler.png)
+
 
 <h4>Usage</h4>
 https://github.com/FisherK19/work-day-scheduler
