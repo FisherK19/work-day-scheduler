@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
-
+/* text area styling */
 textarea {
   background: transparent;
   border: none;
@@ -11,7 +11,7 @@ textarea {
   border-left: 1px solid black;
   padding: 10px;
 }
-
+/* description style */
 .description {
   white-space: pre-wrap;
 }
@@ -44,7 +44,7 @@ textarea {
   background-color: #77dd77;
   color: white;
 }
-
+/* button style */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -52,7 +52,7 @@ textarea {
   background-color: #06aed5;
   color: white;
 }
-
+/* button hover */
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
